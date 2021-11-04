@@ -12,5 +12,3 @@ I am glad to welcome you to this README.md
 ### Ways to connect 🤙
 - E-mail: [dunaevsky_alex@vk.com](mailto:dunaevsky_alex@vk.com)
 - Telegram: [@dunaevskii](https://t.me/dunaevskii)
-
-*Stay tuned!*
