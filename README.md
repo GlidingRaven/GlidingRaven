@@ -8,7 +8,7 @@ I am glad to welcome you to this README.md
 - **Intermediate:** Python, Machine Learning, Node.js, Asynchronous programming
 - **Basic:** SQL, C++
 ### Education 🎓
-- **2016-2023** Bachelor of Software Engineering, Siberian State University of Telecommunications and Informatics, 3rd year student (Distance education)
+- **2016-2023** Bachelor of Software Engineering, Siberian State University of Telecommunications and Informatics, 4rd year student (Distance education)
 ### Ways to connect 🤙
 - E-mail: [dunaevsky_alex@vk.com](mailto:dunaevsky_alex@vk.com)
 - Telegram: [@dunaevskii](https://t.me/dunaevskii)
