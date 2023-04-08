@@ -8,7 +8,7 @@ I am glad to welcome you to this README.md
 - **Advanced:** Python, SQL, Machine Learning, Pandas, Django, , OpenCV, Asynchronous programming
 - **Basic:** C++, Node.js
 ### Education 🎓
-- **2016-2024** Bachelor of Software Engineering, Siberian State University of Telecommunications and Informatics, 4rd year student (Distance education)
+- **2016-2024** Bachelor of Software Engineering, Siberian State University of Telecommunications and Informatics, 5rd year student
 ### Ways to connect 🤙
 - E-mail: [5cawa@mail.ru](mailto:5cawa@mail.ru)
 - Telegram: [@dunaevskii](https://t.me/dunaevskii)
